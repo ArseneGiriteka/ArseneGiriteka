@@ -1,4 +1,6 @@
+<head>
 <link href="https://fonts.googleapis.com/css2?family=Milkshake&display=swap" rel="stylesheet">
+</head>
 <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 20px; align-items: center;">
 
 <div style="padding: 10px; font-family : Milkshake, cursive;">
