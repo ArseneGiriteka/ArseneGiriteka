@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Arsène
 #### Machine Learning student
-![Machine Learning student](https://media.licdn.com/dms/image/v2/D4E16AQEQ6iBv2gd_Kw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726466527320?e=1738195200&v=beta&t=SVQaP7mSTaBKBLzPP9fg1QtkeuXOVPdQTSfth502s6E)
+![Machine Learning student](https://github.com/ArseneGiriteka/ArseneGiriteka/blob/main/images/me.jpg)
 
 I like to explore every corner of computer applications especially when it apply on how you can get a computer to think and sometimes outsmart humains.
 
