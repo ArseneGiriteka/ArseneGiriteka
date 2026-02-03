@@ -1,15 +1,10 @@
-### Hi there 👋, my name is Arsène
-#### Machine Learning student
-![Machine Learning student](./images/me.jpg=250x250)
+### Hi, my name is Arsène
+![Student](./images/me.jpg=250x250)
 
 I like to learn, build, computer applications.
 I also like problem solving.
 
-Skills: C / C++ / Java / Python / SQL / MongoDB / PostgreSQL / Android / Spring Boot / NodeJs / TypeScript /
-
-- I’m currently working on Vplayer 
-- I’m learning Spring Boot, PostgreSQL, AngularJS (They will be user in Vplayer) (40 % of my work time)
-- I'm learning also PyTorch for Deep learning (i spend about 50 % of my work time)
+Skills: C / C++ / Java / Python / SQL / MongoDB / PostgreSQL / Android / Spring Boot / NodeJs / TypeScript 
   
 
 
